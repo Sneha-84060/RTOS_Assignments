@@ -1,0 +1,9 @@
+../Core/Src/main.c:58:6:vAperiodicTask	1
+../Core/Src/main.c:68:6:vAperiodic1Task1	1
+../Core/Src/main.c:78:6:vPeriodicTask	1
+../Core/Src/main.c:89:6:vPeriodic1Task1	1
+../Core/Src/main.c:106:5:main	5
+../Core/Src/main.c:163:6:SystemClock_Config	3
+../Core/Src/main.c:210:13:MX_GPIO_Init	1
+../Core/Src/main.c:245:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:262:6:Error_Handler	1
