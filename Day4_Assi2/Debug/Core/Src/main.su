@@ -1,0 +1,10 @@
+../Core/Src/main.c:60:6:vLedTask1	24	static
+../Core/Src/main.c:72:6:vLedTask2	32	static
+../Core/Src/main.c:85:6:vLedTask3	24	static
+../Core/Src/main.c:97:6:vLedTask4	32	static
+../Core/Src/main.c:115:5:main	56	static
+../Core/Src/main.c:204:6:SystemClock_Config	88	static
+../Core/Src/main.c:251:13:MX_GPIO_Init	32	static
+../Core/Src/main.c:285:6:StartDefaultTask	16	static
+../Core/Src/main.c:304:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:321:6:Error_Handler	4	static,ignoring_inline_asm
